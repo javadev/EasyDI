@@ -1,6 +1,6 @@
 # EasyDI - Dependency Injection for Java
 
-[![Build Status](https://travis-ci.org/lestard/EasyDI.svg?branch=master)](https://travis-ci.org/lestard/EasyDI)
+[![Build Status](https://travis-ci.org/javadev/EasyDI.svg?branch=master)](https://travis-ci.org/javadev/EasyDI)
 
 **EasyDI** is a small dependency injection (DI) library for java projects.
 
@@ -18,7 +18,7 @@ If you like to use dependency injection (which is always a good idea) but EasyDI
 
 ## Links
 
-[JavaDoc 0.3.0](https://lestard.github.io/EasyDI/docs/0.3.0/eu/lestard/easydi/EasyDI.html)
+[JavaDoc 0.3.0](https://javadev.github.io/EasyDI/docs/0.3.0/eu/javadev/easydi/EasyDI.html)
 
 
 ##<a name="dependencies"></a> Maven Dependencies
@@ -83,15 +83,15 @@ dependencies {
 
 In the wiki there is a tutorial where all features of EasyDI are described.
 In the example we are creating a coffee machine application:
-[wiki](https://github.com/lestard/EasyDI/wiki/Tutorial).
+[wiki](https://github.com/javadev/EasyDI/wiki/Tutorial).
 
 The code for this example is located in the test source directory:
-[/src/test/java/eu/lestard/easydi/examples/coffee/](https://github.com/lestard/EasyDI/tree/master/src/test/java/eu/lestard/easydi/examples/coffee)
+[/src/test/java/eu/javadev/easydi/examples/coffee/](https://github.com/javadev/EasyDI/tree/master/src/test/java/eu/javadev/easydi/examples/coffee)
 
 ## Real-World Examples:
 
-- [SnakeFX](https://github.com/lestard/SnakeFX): A Snake clone written in JavaFX
-- [Nonogram](https://github.com/lestard/nonogram): A nonogram puzzle game written in JavaFX
+- [SnakeFX](https://github.com/javadev/SnakeFX): A Snake clone written in JavaFX
+- [Nonogram](https://github.com/javadev/nonogram): A nonogram puzzle game written in JavaFX
 
 ## How to Use
 
@@ -100,7 +100,7 @@ The code for this example is located in the test source directory:
 There are two ways of using the library in your project:
 
 1. Use a Build-System like Gradle or Maven. **EasyDI** is available in the [Maven Central Repository](https://search.maven.org/#search|ga|1|easy-di). See [Maven dependencies](#dependencies)
-2. Download the ZIP file from the [github release page](https://github.com/lestard/EasyDI/releases/download/v0.3.0/easy-di-0.3.0.zip). The file contains the library JAR file and the JAR for [javax.inject](http://search.maven.org/#artifactdetails|javax.inject|javax.inject|1|jar) which is needed as dependency. Add both JAR files to the classpath of your project.
+2. Download the ZIP file from the [github release page](https://github.com/javadev/EasyDI/releases/download/v0.3.0/easy-di-0.3.0.zip). The file contains the library JAR file and the JAR for [javax.inject](http://search.maven.org/#artifactdetails|javax.inject|javax.inject|1|jar) which is needed as dependency. Add both JAR files to the classpath of your project.
 
 
 ### 2. Create your classes
