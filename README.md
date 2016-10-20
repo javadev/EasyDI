@@ -86,12 +86,12 @@ In the example we are creating a coffee machine application:
 [wiki](https://github.com/javadev/EasyDI/wiki/Tutorial).
 
 The code for this example is located in the test source directory:
-[/src/test/java/eu/javadev/easydi/examples/coffee/](https://github.com/javadev/EasyDI/tree/master/src/test/java/eu/javadev/easydi/examples/coffee)
+[/src/test/java/eu/lestard/easydi/examples/coffee/](https://github.com/javadev/EasyDI/tree/master/src/test/java/eu/lestard/easydi/examples/coffee)
 
 ## Real-World Examples:
 
-- [SnakeFX](https://github.com/javadev/SnakeFX): A Snake clone written in JavaFX
-- [Nonogram](https://github.com/javadev/nonogram): A nonogram puzzle game written in JavaFX
+- [SnakeFX](https://github.com/lestard/SnakeFX): A Snake clone written in JavaFX
+- [Nonogram](https://github.com/lestard/nonogram): A nonogram puzzle game written in JavaFX
 
 ## How to Use
 
